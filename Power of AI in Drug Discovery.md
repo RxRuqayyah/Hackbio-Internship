@@ -8,9 +8,6 @@ _A literature review on the research publication:_ 
 
 [_Artificial Intelligence in Drug Discovery and Development (Debleena P. et. al, 2020)_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7577280/)
 
-![A diagram of a machine learning process
-
-Description automatically generated](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcVoGVYj8NLwDpCKASpmO91MxitCcvjgzmefZ0WS6047CUJ8uHvIUVffHB2mlXi0hX0elCIvwejigpS3kKAUcVzW_DH1DhfsK4OdQ3clVrDEXYbdGpoBE9Bv9Y8wosMHXrpatpWkP0sVW5o-5YQ-YvDlvbF?key=y-XaCu0NIg9xIolNFCnbkg)
 
 _Authors:\
 Rukayat  Y. Omotosho-Sanni (Rxruqayyah)_

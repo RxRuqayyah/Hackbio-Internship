@@ -1,11 +1,11 @@
 <!--StartFragment-->
 
-Structural Insights into the IGF1R:  A Comparative Analysis of Homology Modelling and Alphafold
+### **Structural Insights into the IGF1R:  A Comparative Analysis of Homology Modelling and Alphafold** 
 
 Authors: Oleh Precious (@KelHills), Bezaleel Akinbami (@B3z), Rukayat Omotosho-Sanni(@Rxruqayyah), Itrat Zehrh (@Zehrh \_iz), Cynthia Eriobu (@Cynthia1000)
 
 
-## **INTRODUCTION** {#h.cjenfkg3wiwy}
+## **INTRODUCTION** 
 
 Insulin-like Growth Factor (IGF) is a polypeptide hormone that shares similar molecular characteristics with proinsulin \[1]. IGF consists of two forms, IGF-1 and IGF-2, each with its own specific receptors (IGF-1R and IGF-2R) and binding proteins (IGFBP1–IGFBP6), which regulate their bioavailability and activity \[2]. The IGF-1 receptor (IGF1R) consists of several key domains that present significant potential as therapeutic targets for drug development. These domains include the leucine-rich repeat 1 (L1) domain, the cysteine-rich domain (CRD), fibronectin type III domains (FNIII-1 and FNIII-2), and the tyrosine kinase domain (TKD). Each of these domains plays a critical role in the receptor’s function, contributing to IGF-1 binding, receptor dimerization, stability, ligand interaction, catalytic activity, and ATP binding.The primary IGF1-binding site observed in our IGF1R-IGF1 cryo-EM structure consists of the L1 domain and α-CT′ and is nearly identical to that in the crystal structure of the IGF1R ectodomain bound to IGF1. At this secondary IGF1-binding sub-site, Y487 and R488 of IGF1R pack closely against residues T4, C6, and E9 of IGF1. \[3]. 
 

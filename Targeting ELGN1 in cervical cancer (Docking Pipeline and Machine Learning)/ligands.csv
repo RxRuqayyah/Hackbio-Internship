@@ -1,0 +1,52 @@
+Ligand Number,Ligand Name,SMILES
+1,Hexadecanal,CCCCCCCCCCCCCCCC=O
+2,Vanillin,COC1=C(C=CC(=C1)C=O)O
+3,Eucalyptol,CC1(C2CCC(O1)(CC2)C)C
+4,p-CYMENE,CC1=CC=C(C=C1)C(C)C
+5,2-Undecanone,CCCCCCCCCC(=O)C
+6,Vanillic Acid,COC1=C(C=CC(=C1)C(=O)O)O
+7,Terpinolene,CC1=CCC(=C(C)C)CC1  
+8,2-(4-Methylphenyl)propan-2-ol,CC1=CC=C(C=C1)C(C)(C)O 
+9,2-Undecanol,CCCCCCCCCC(C)O
+10,Myrcene,CC(=CCCC(=C)C=C)C
+11,Cholesterol sulfate,C[C@H](CCCC(C)C)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC=C4[C@@]3(CC[C@@H](C4)OS(=O)(=O)O)C)C  
+12,Curlone,CC(CC(=O)C=C(C)C)C1CCC(=C)C=C1
+13,Cinnamic Acid,C1=CC=C(C=C1)/C=C/C(=O)O
+14,Ferulic acid,COC1=C(C=CC(=C1)/C=C/C(=O)O)O
+15,"1,5-Bis(4-hydroxy-3-methoxyphenyl)penta-1,4-dien-3-one",COC1=C(C=CC(=C1)C=CC(=O)C=CC2=CC(=C(C=C2)O)OC)O
+16,"(4Z,6E)-5-Hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)-4,6-heptadie n-3-one; 5-hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)-4,6-heptadiene-3-one",COC1=C(C=CC(=C1)CCC(=O)C=C(C=CC2=CC(=C(C=C2)O)OC)O)O
+17,Calebin A,COC1=C(C=CC(=C1)/C=C/C(=O)COC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O
+18,Cinnamaldehyde,C1=CC=C(C=C1)/C=C/C=O  
+19,p-Coumaric acid,C1=CC(=CC=C1/C=C/C(=O)O)O 
+20,"(4Z,6E)-5-Hydroxy-1-(4-hydroxy-3-methoxyphenyl)-7-(4-hydroxyphenyl)hepta-4,6-dien-3-one",COC1=C(C=CC(=C1)CCC(=O)/C=C(/C=C/C2=CC=C(C=C2)O)\O)O
+21,Geranyl acetate,CC(=CCC/C(=C/COC(=O)C)/C)C  
+22,"gamma-Bisabolene, (Z)-",CC1=CC/C(=C(/C)\CCC=C(C)C)/CC1 
+23,Humulene, C/C/1=C\CC(/C=C/C/C(=C/CC1)/C)(C)C 
+24,"(1E,4Z,6E)-5-hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,4,6-trien-3-one",COC1=C(C=CC(=C1)/C=C/C(=C/C(=O)/C=C/C2=CC(=C(C=C2)O)OC)/O)O 
+25,"(1E,4Z,6E)-5-hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,4,6-trien-3-one",CCCCC/C=C\C/C=C/CCCCCCCC(=O)O
+26,"9,12-Octadecadienoic acid, (E,Z)-",CCCCC/C=C\C/C=C/CCCCCCCC(=O)O
+27,Bisdemethoxycurcumin,C1=CC(=CC=C1/C=C/C(=O)CC(=O)/C=C/C2=CC=C(C=C2)O)O
+28,"beta-Farnesene, (6Z)-",CC(=CCC/C(=C\CCC(=C)C=C)/C)C 
+29,Isofuranodiene,C/C/1=C\CC2=C(C/C(=C/CC1)/C)OC=C2C  
+30,"(3Z,7E)-3,7-dimethyl-10-propan-2-ylidenecyclodeca-3,7-dien-1-one", C/C/1=C\CC(=C(C)C)C(=O)C/C(=C\CC1)/C
+31,Demethoxycurcumin,COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC=C(C=C2)O)O
+32,[(E)-4-(4-hydroxy-3-methoxyphenyl)-2-oxobut-3-enyl] (E)-3-(4-hydroxyphenyl)prop-2-enoate,COC1=C(C=CC(=C1)/C=C/C(=O)COC(=O)/C=C/C2=CC=C(C=C2)O)O
+33,Tauroursodeoxycholic acid, C[C@H](CCC(=O)NCCS(=O)(=O)O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2[C@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)C  
+34,Curcumanolides A, C[C@H]1CC[C@H]([C@@]12CC(=C(C)C)C(=O)O2)C(=C)C  
+35,Epiprocurcumenol,CC1=CC(=O)C(=C(C)C)C[C@H]2[C@@H]1CC[C@]2(C)O
+36,"2-Cyclohexen-1-one, 6-(1,5-dimethyl-4-hexenyl)-3-methyl-",CC1=CC(=O)C(CC1)C(C)CCC=C(C)C
+37,"(E,6S)-2-methyl-6-(4-methylphenyl)hept-2-en-1-ol",CC1=CC=C(C=C1)[C@@H](C)CC/C=C(\C)/CO
+38,"(1S,4S,6R)-1-Methyl-4-((Z)-6-methylhepta-2,5-dien-2-yl)-7-oxabicyclo[4.1.0]heptane",CC(=CC/C=C(/C)\[C@H]1CC[C@]2([C@@H](C1)O2)C)C  
+39,Turmeronol A,CC1=C(C=C(C=C1)[C@@H](C)CC(=O)C=C(C)C)O  
+40,"(R,R)-1-isopropyl-4-methyl-3-(prop-1-en-2-yl)-4-vinylcyclohexene",CC(C)C1=C[C@@H]([C@@](CC1)(C)C=C)C(=C)C  
+41,"(1E)-7-Hydroxy-1,7-bis(4-hydroxy-3-methoxyphenyl)-1-heptene-3,5-dione",COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)CC(C2=CC(=C(C=C2)O)OC)O)O  
+42,Curcumanolides B, C[C@H]1CC[C@@H]([C@@]12CC(=C(C)C)C(=O)O2)C(=C)C  
+43,Bisacurone A,C[C@@H](CC(=O)C=C(C)C)[C@H]1C[C@@H]([C@](C=C1)(C)O)O  
+44,Bisacurone C,C[C@@H](CC(=O)C=C(C)C)[C@H]1C[C@H]([C@](C=C1)(C)O)O  
+45,Bisacurone B, C[C@@H](CC(=O)C=C(C)C)[C@H]1C[C@H]([C@@](C=C1)(C)O)O  
+46,"3-Hydroxybisabola-1,10-dien-9-one",C[C@@H](CC(=O)C=C(C)C)[C@H]1CC[C@@](C=C1)(C)O  
+47,"5-Hydroxy-4-methoxybisabola-2,10-dien-9-one", C[C@@H](CC(=O)C=C(C)C)[C@H]1C[C@@H]([C@@](C=C1)(C)OC)O 
+48,"5-(6-Methylhept-5-en-2-yl)cyclohex-2-ene-1,4-diol",CC(CCC=C(C)C)C1CC(C=CC1O)O
+49,Aromadendrene oxide 2,C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@@]24CO4  
+50,Caffeic Acid,C1=CC(=C(C=C1/C=C/C(=O)O)O)O 
+Standard,Topotecan,CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O  

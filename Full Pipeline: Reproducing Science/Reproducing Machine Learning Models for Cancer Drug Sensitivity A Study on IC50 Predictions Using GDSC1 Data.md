@@ -57,16 +57,17 @@ After optimizing the model hyperparameters and then predicting IC50 against the 
 
 The model could only explain about 46.8% of the variability in the data which is quite unpromising.  The errors (MAE and RMSE) further depict deficiency in prediction. Overall, This shows better model performance and suggests reasonable predictive capability. 
 
-**Discussion**
+## **Discussion**
 
-The performance expressed by the Light gbm model is slightly below average in explaining the variance in pIC50 values (46.8%) . Although the key molecular descriptors relevant to bioactivity were featured, the variability seen in the cross-validation informs improvements.
+The target paper arguably established multidrug ML algorithms such as neural network and random forest and had better metrics. Their model was built on a more robust dataset and this could be the reason for difference in variability.
+
 
 Finally, the moderate MSE scores indicate the model's utility in virtual screening but highlight potential limitations due to dataset size and feature complexity. 
 
 
 ## **Conclusion and Insights**
 
-The target paper arguably established multidrug ML algorithms such as neural network and random forest and had better metrics. Their model was built on a more robust dataset and this could be the reason for difference in variability.
+The performance expressed by the Light gbm model is slightly below average in explaining the variance in pIC50 values (46.8%) . Although the key molecular descriptors relevant to bioactivity were featured, the variability seen in the cross-validation informs improvements.
 
 
 ## **Reference**
